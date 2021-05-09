@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,QAAQ,CACR,SAAS,CACT,6CAA+C,CAC/C,eACJ","file":"main.414d286b.chunk.css","sourcesContent":["body{\r\n    margin:0;\r\n    padding:0;\r\n    font-family: 'Raleway','Montserrat', sans-serif;\r\n    font-size: 62.5%;\r\n}"]}
